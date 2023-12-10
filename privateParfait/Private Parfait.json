@@ -952,14 +952,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 45,
+          "height": 224,
           "layer": "UI Layer",
           "name": "FlatDarkJoystick",
           "persistentUuid": "57d9cb3f-885d-4a37-844b-76080e3e9ef4",
-          "width": 0,
-          "x": 240,
-          "y": 528,
+          "width": 224,
+          "x": 272,
+          "y": 496,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -968,14 +969,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 2,
-          "height": 142,
+          "depth": 3,
+          "height": 217,
           "layer": "UI Layer",
           "name": "jumpbutton",
           "persistentUuid": "9cbd4cea-c895-4046-83fb-be488ce57fc6",
-          "width": 142,
+          "width": 217,
           "x": 999,
-          "y": 455,
+          "y": 380,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -4528,13 +4529,13 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Anchor",
+              "type": "AnchorBehavior::AnchorBehavior",
               "bottomEdgeAnchor": 0,
               "leftEdgeAnchor": 2,
-              "name": "Anchor",
               "relativeToOriginalWindowSize": true,
               "rightEdgeAnchor": 0,
               "topEdgeAnchor": 0,
-              "type": "AnchorBehavior::AnchorBehavior",
               "useLegacyBottomAndRightAnchors": false
             },
             {
@@ -4646,8 +4647,8 @@
           "behaviors": [
             {
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "platformType": "NormalPlatform",
               "canBeGrabbed": true,
               "yGrabOffset": 0
             },
