@@ -953,14 +953,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 45,
-          "height": 224,
+          "depth": 57,
+          "height": 288,
           "layer": "UI Layer",
           "name": "FlatDarkJoystick",
           "persistentUuid": "57d9cb3f-885d-4a37-844b-76080e3e9ef4",
-          "width": 224,
+          "width": 288,
           "x": 272,
-          "y": 496,
+          "y": 464,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -970,13 +970,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 3,
-          "height": 217,
+          "height": 277,
           "layer": "UI Layer",
           "name": "jumpbutton",
           "persistentUuid": "9cbd4cea-c895-4046-83fb-be488ce57fc6",
-          "width": 217,
-          "x": 999,
-          "y": 380,
+          "width": 277,
+          "x": 971,
+          "y": 320,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -1121,34 +1121,6 @@
           "variables": [],
           "effects": [],
           "behaviors": [
-            {
-              "name": "Health",
-              "type": "Health::Health",
-              "Health": 100,
-              "CurrentHealth": 0,
-              "MaxHealth": 100,
-              "DamageCooldown": 0,
-              "IsHealthJustDamaged": false,
-              "HealthRegenRate": 0,
-              "HealthRegenDelay": 0,
-              "AllowOverHealing": false,
-              "HitAtLeastOnce": false,
-              "IsJustHealed": false,
-              "CurrentShieldPoints": 0,
-              "MaxShieldPoints": 0,
-              "ShieldDuration": 5,
-              "ShieldRegenRate": 0,
-              "BlockExcessDamage": false,
-              "ShieldRegenDelay": 0,
-              "IsShieldJustDamaged": false,
-              "ChanceToDodge": 0,
-              "DamageToBeApplied": 0,
-              "FlatDamageReduction": 0,
-              "PercentDamageReduction": 0,
-              "IsJustDodged": false,
-              "ShieldDamageTaken": 0,
-              "HealToBeApplied": 0
-            },
             {
               "name": "PlatformerCharacterAnimator",
               "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator",
@@ -5788,6 +5760,7 @@
           "comment": "No condition before events."
         },
         {
+          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
           "actions": [
@@ -6378,10 +6351,6 @@
         {
           "name": "Flippable",
           "type": "FlippableCapability::FlippableBehavior"
-        },
-        {
-          "name": "Health",
-          "type": "Health::Health"
         },
         {
           "name": "MultitouchButton",
