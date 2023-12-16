@@ -552,6 +552,78 @@
         "name": "Character3M_1_land_1.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle.png\"}",
+        "name": "Idle",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle2.png\"}",
+        "name": "Idle2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle3.png\"}",
+        "name": "Idle3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle4.png\"}",
+        "name": "Idle4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle5.png\"}",
+        "name": "Idle5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle6.png\"}",
+        "name": "Idle6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle7.png\"}",
+        "name": "Idle7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle8.png\"}",
+        "name": "Idle8",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1242,11 +1314,12 @@
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Character3M_1_idle_0.png",
+                      "image": "Idle",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1282,7 +1355,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Character3M_1_idle_1.png",
+                      "image": "Idle2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1318,7 +1391,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Character3M_1_idle_2.png",
+                      "image": "Idle3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1354,7 +1427,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Character3M_1_idle_3.png",
+                      "image": "Idle4",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1390,7 +1463,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Character3M_1_idle_4.png",
+                      "image": "Idle5",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1426,7 +1499,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Character3M_1_idle_5.png",
+                      "image": "Idle6",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1462,7 +1535,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Character3M_1_idle_6.png",
+                      "image": "Idle7",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1498,7 +1571,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Character3M_1_idle_7.png",
+                      "image": "Idle8",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
