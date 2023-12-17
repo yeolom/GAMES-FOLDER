@@ -1153,7 +1153,7 @@
           "width": 256,
           "x": -512,
           "y": 712,
-          "zOrder": 32,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1169,7 +1169,7 @@
           "width": 161,
           "x": -160,
           "y": 480,
-          "zOrder": 33,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1217,7 +1217,7 @@
           "width": 160,
           "x": 960,
           "y": 224,
-          "zOrder": 36,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1264,7 +1264,7 @@
           "width": 224,
           "x": 512,
           "y": 288,
-          "zOrder": 39,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1280,7 +1280,7 @@
           "width": 192,
           "x": 224,
           "y": 480,
-          "zOrder": 40,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
