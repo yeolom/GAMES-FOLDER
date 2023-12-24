@@ -651,6 +651,78 @@
         "name": "leftKeyMovement",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle9.png\"}",
+        "name": "Idle9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle10.png\"}",
+        "name": "Idle10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle11.png\"}",
+        "name": "Idle11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle12.png\"}",
+        "name": "Idle12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle13.png\"}",
+        "name": "Idle13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle14.png\"}",
+        "name": "Idle14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle15.png\"}",
+        "name": "Idle15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle16.png\"}",
+        "name": "Idle16",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1422,7 +1494,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Idle",
+                      "image": "Idle9",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1458,7 +1530,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Idle2",
+                      "image": "Idle10",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1494,7 +1566,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Idle3",
+                      "image": "Idle11",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1530,7 +1602,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Idle4",
+                      "image": "Idle12",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1566,7 +1638,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Idle5",
+                      "image": "Idle13",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1602,7 +1674,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Idle6",
+                      "image": "Idle14",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1638,7 +1710,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Idle7",
+                      "image": "Idle15",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1674,7 +1746,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Idle8",
+                      "image": "Idle16",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
