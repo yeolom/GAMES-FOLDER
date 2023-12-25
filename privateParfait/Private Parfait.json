@@ -759,6 +759,150 @@
         "name": "Idle20",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Run.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run.png\"}",
+        "name": "Run",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Run2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run2.png\"}",
+        "name": "Run2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Run3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run3.png\"}",
+        "name": "Run3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Run4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run4.png\"}",
+        "name": "Run4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Run5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run5.png\"}",
+        "name": "Run5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Run6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run6.png\"}",
+        "name": "Run6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Run7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run7.png\"}",
+        "name": "Run7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Run8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run8.png\"}",
+        "name": "Run8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Run9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run9.png\"}",
+        "name": "Run9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Run10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run10.png\"}",
+        "name": "Run10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Run11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run11.png\"}",
+        "name": "Run11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Run12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run12.png\"}",
+        "name": "Run12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Run13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run13.png\"}",
+        "name": "Run13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Run14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run14.png\"}",
+        "name": "Run14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Run15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run15.png\"}",
+        "name": "Run15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Run16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run16.png\"}",
+        "name": "Run16",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -771,15 +915,15 @@
   "variables": [],
   "layouts": [
     {
-      "b": 211,
+      "b": 235,
       "disableInputWhenNotFocused": true,
       "mangledName": "tutorial_32scene",
       "name": "tutorial scene",
-      "r": 149,
+      "r": 196,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 177,
+      "v": 214,
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
@@ -1524,46 +1668,10 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
                   "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Idle18",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 23,
-                            "y": 19
-                          },
-                          {
-                            "x": 40,
-                            "y": 19
-                          },
-                          {
-                            "x": 40,
-                            "y": 48
-                          },
-                          {
-                            "x": 23,
-                            "y": 48
-                          }
-                        ]
-                      ]
-                    },
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Idle9",
@@ -1851,78 +1959,6 @@
                           }
                         ]
                       ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Idle19",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 23,
-                            "y": 19
-                          },
-                          {
-                            "x": 40,
-                            "y": 19
-                          },
-                          {
-                            "x": 40,
-                            "y": 48
-                          },
-                          {
-                            "x": 23,
-                            "y": 48
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Idle20",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 23,
-                            "y": 19
-                          },
-                          {
-                            "x": 40,
-                            "y": 19
-                          },
-                          {
-                            "x": 40,
-                            "y": 48
-                          },
-                          {
-                            "x": 23,
-                            "y": 48
-                          }
-                        ]
-                      ]
                     }
                   ]
                 }
@@ -1934,11 +1970,12 @@
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Character3M_1_run_0.png",
+                      "image": "Run9",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1974,7 +2011,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Character3M_1_run_1.png",
+                      "image": "Run10",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2010,7 +2047,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Character3M_1_run_2.png",
+                      "image": "Run11",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2046,7 +2083,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Character3M_1_run_3.png",
+                      "image": "Run12",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2082,7 +2119,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Character3M_1_run_4.png",
+                      "image": "Run13",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2118,7 +2155,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Character3M_1_run_5.png",
+                      "image": "Run14",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2154,7 +2191,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Character3M_1_run_6.png",
+                      "image": "Run15",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2190,7 +2227,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Character3M_1_run_7.png",
+                      "image": "Run16",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
