@@ -413,7 +413,7 @@
         "alwaysLoaded": false,
         "file": "Character3M_1_climb_0.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Character3M_1_climb_0.png\",\"extension\":\".png\"}",
         "name": "Character3M_1_climb_0.png",
         "smoothed": false,
         "userAdded": true
@@ -422,7 +422,7 @@
         "alwaysLoaded": false,
         "file": "Character3M_1_climb_1.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Character3M_1_climb_1.png\",\"extension\":\".png\"}",
         "name": "Character3M_1_climb_1.png",
         "smoothed": false,
         "userAdded": true
@@ -431,7 +431,7 @@
         "alwaysLoaded": false,
         "file": "Character3M_1_climb_2.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Character3M_1_climb_2.png\",\"extension\":\".png\"}",
         "name": "Character3M_1_climb_2.png",
         "smoothed": false,
         "userAdded": true
@@ -440,7 +440,7 @@
         "alwaysLoaded": false,
         "file": "Character3M_1_climb_3.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Character3M_1_climb_3.png\",\"extension\":\".png\"}",
         "name": "Character3M_1_climb_3.png",
         "smoothed": false,
         "userAdded": true
@@ -449,7 +449,7 @@
         "alwaysLoaded": false,
         "file": "Character3M_1_climb_4.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Character3M_1_climb_4.png\",\"extension\":\".png\"}",
         "name": "Character3M_1_climb_4.png",
         "smoothed": false,
         "userAdded": false
@@ -458,7 +458,7 @@
         "alwaysLoaded": false,
         "file": "Character3M_1_climb_5.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Character3M_1_climb_5.png\",\"extension\":\".png\"}",
         "name": "Character3M_1_climb_5.png",
         "smoothed": false,
         "userAdded": false
@@ -467,7 +467,7 @@
         "alwaysLoaded": false,
         "file": "Character3M_1_climb_6.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Character3M_1_climb_6.png\",\"extension\":\".png\"}",
         "name": "Character3M_1_climb_6.png",
         "smoothed": false,
         "userAdded": false
@@ -476,7 +476,7 @@
         "alwaysLoaded": false,
         "file": "Character3M_1_climb_7.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Character3M_1_climb_7.png\",\"extension\":\".png\"}",
         "name": "Character3M_1_climb_7.png",
         "smoothed": false,
         "userAdded": true
@@ -485,7 +485,7 @@
         "alwaysLoaded": false,
         "file": "Character3M_1_climb_8.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Character3M_1_climb_8.png\",\"extension\":\".png\"}",
         "name": "Character3M_1_climb_8.png",
         "smoothed": false,
         "userAdded": false
@@ -494,7 +494,7 @@
         "alwaysLoaded": false,
         "file": "Character3M_1_climb_9.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Character3M_1_climb_9.png\",\"extension\":\".png\"}",
         "name": "Character3M_1_climb_9.png",
         "smoothed": false,
         "userAdded": true
@@ -2271,6 +2271,7 @@
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
