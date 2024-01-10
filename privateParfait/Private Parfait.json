@@ -1060,7 +1060,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.700757378261909,
+        "zoomFactor": 0.09552266746460555,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1635,7 +1635,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 2858,
+          "height": 3011,
           "layer": "",
           "name": "wallBg",
           "persistentUuid": "ab84e05a-ece5-46ec-8263-76446a23b571",
